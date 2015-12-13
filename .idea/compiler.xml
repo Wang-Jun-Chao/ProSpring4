@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="ch0201-hello-world" />
+        <module name="ch0301-dependency-pull" />
+        <module name="ch0302-cdl" />
+        <module name="ch0303-constructor-injection" />
+        <module name="ch0304-setter-injection" />
+        <module name="ch0305-simple-types" />
+        <module name="ch0306-method-injection" />
+        <module name="ch0307-method-replacement" />
+        <module name="ch0308-bean-aliases" />
+        <module name="ch0309-bean-instantiation-mode" />
+        <module name="ch0310-bean-autowiring" />
+        <module name="ch0311-bean-inheritance" />
+        <module name="ch0312-collections" />
+        <module name="ch0313-injection" />
+        <module name="ch0314-nesting" />
+        <module name="ch0401-bean-init" />
+        <module name="ch0402-initializing-bean" />
+        <module name="ch0403-post-construct" />
+        <module name="ch0404-initializing-bean-destroy" />
+        <module name="ch0405-disposable-bean" />
+        <module name="ch0406-post-construct-pre-destroy" />
+        <module name="ch0407-shutdown-hook" />
+        <module name="ch0408-bean-name-aware" />
+        <module name="ch0409-application-context-aware" />
+        <module name="ch0410-factory-bean" />
+        <module name="ch0411-accessing-factory-beans" />
+        <module name="ch0412-factory-bean-and-factory-method-attributes" />
+        <module name="ch0413-property-editors" />
+        <module name="ch0414-custom-property-editor" />
+        <module name="ch0415-message-source" />
+        <module name="ch0416-events" />
+        <module name="ch04167resource" />
+        <module name="ch0417-resource" />
+        <module name="ch0418-java-config" />
+        <module name="ch0419-java-config-message-provider" />
+        <module name="ch0420-profiles" />
+        <module name="ch0421-environment" />
+        <module name="ch0422-property-placeholder" />
+        <module name="ch0423-jsr330" />
+        <module name="ch0424-groovy-config-java" />
+        <module name="ch0425-groovy-config" />
+        <module name="ch0501-hello-world" />
+        <module name="ch0502-simple-before-advice" />
+        <module name="ch0503-security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch0201-hello-world" target="1.8" />
+      <module name="ch0301-dependency-pull" target="1.8" />
+      <module name="ch0302-cdl" target="1.8" />
+      <module name="ch0303-constructor-injection" target="1.8" />
+      <module name="ch0304-setter-injection" target="1.8" />
+      <module name="ch0305-simple-types" target="1.8" />
+      <module name="ch0306-method-injection" target="1.8" />
+      <module name="ch0307-method-replacement" target="1.8" />
+      <module name="ch0308-bean-aliases" target="1.8" />
+      <module name="ch0309-bean-instantiation-mode" target="1.8" />
+      <module name="ch0310-bean-autowiring" target="1.8" />
+      <module name="ch0311-bean-inheritance" target="1.8" />
+      <module name="ch0312-collections" target="1.8" />
+      <module name="ch0313-injection" target="1.8" />
+      <module name="ch0314-nesting" target="1.8" />
+      <module name="ch0401-bean-init" target="1.8" />
+      <module name="ch0402-initializing-bean" target="1.8" />
+      <module name="ch0403-post-construct" target="1.8" />
+      <module name="ch0404-initializing-bean-destroy" target="1.8" />
+      <module name="ch0405-disposable-bean" target="1.8" />
+      <module name="ch0406-post-construct-pre-destroy" target="1.8" />
+      <module name="ch0407-shutdown-hook" target="1.8" />
+      <module name="ch0408-bean-name-aware" target="1.8" />
+      <module name="ch0409-application-context-aware" target="1.8" />
+      <module name="ch0410-factory-bean" target="1.8" />
+      <module name="ch0411-accessing-factory-beans" target="1.8" />
+      <module name="ch0412-factory-bean-and-factory-method-attributes" target="1.8" />
+      <module name="ch0413-property-editors" target="1.8" />
+      <module name="ch0414-custom-property-editor" target="1.8" />
+      <module name="ch0415-message-source" target="1.8" />
+      <module name="ch0416-events" target="1.8" />
+      <module name="ch04167resource" target="1.5" />
+      <module name="ch0417-resource" target="1.8" />
+      <module name="ch0418-java-config" target="1.8" />
+      <module name="ch0419-java-config-message-provider" target="1.8" />
+      <module name="ch0420-profiles" target="1.8" />
+      <module name="ch0421-environment" target="1.8" />
+      <module name="ch0422-property-placeholder" target="1.8" />
+      <module name="ch0423-jsr330" target="1.8" />
+      <module name="ch0424-groovy-config-java" target="1.8" />
+      <module name="ch0425-groovy-config" target="1.8" />
+      <module name="ch0501-hello-world" target="1.8" />
+      <module name="ch0502-simple-before-advice" target="1.8" />
+      <module name="ch0503-security" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

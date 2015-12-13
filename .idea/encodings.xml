@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch0201-hello-world" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0301-dependency-pull" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0302-cdl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0303-constructor-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0304-setter-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0305-simple-types" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0306-method-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0307-method-replacement" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0308-bean-aliases" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0309-bean-instantiation-mode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0310-bean-autowiring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0311-bean-inheritance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0312-collections" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0313-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0314-nesting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0401-bean-init" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0402-initializing-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0403-post-construct" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0404-initializing-bean-destroy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0405-disposable-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0406-post-construct-pre-destroy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0407-shutdown-hook" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0408-bean-name-aware" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0409-application-context-aware" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0410-factory-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0411-accessing-factory-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0412-factory-bean-and-factory-method-attributes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0413-property-editors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0414-custom-property-editor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0415-message-source" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0416-events" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0417-resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0418-java-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0419-java-config-message-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0420-profiles" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0421-environment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0422-property-placeholder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0423-jsr330" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0424-groovy-config-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0425-groovy-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0501-hello-world" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0502-simple-before-advice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0503-security" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

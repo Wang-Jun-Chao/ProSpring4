@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch0201-hello-world/ch0201-hello-world.iml" filepath="$PROJECT_DIR$/ch0201-hello-world/ch0201-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0301-dependency-pull/ch0301-dependency-pull.iml" filepath="$PROJECT_DIR$/ch0301-dependency-pull/ch0301-dependency-pull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0302-cdl/ch0302-cdl.iml" filepath="$PROJECT_DIR$/ch0302-cdl/ch0302-cdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0303-constructor-injection/ch0303-constructor-injection.iml" filepath="$PROJECT_DIR$/ch0303-constructor-injection/ch0303-constructor-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0304-setter-injection/ch0304-setter-injection.iml" filepath="$PROJECT_DIR$/ch0304-setter-injection/ch0304-setter-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0305-simple-types/ch0305-simple-types.iml" filepath="$PROJECT_DIR$/ch0305-simple-types/ch0305-simple-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0306-method-injection/ch0306-method-injection.iml" filepath="$PROJECT_DIR$/ch0306-method-injection/ch0306-method-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0307-method-replacement/ch0307-method-replacement.iml" filepath="$PROJECT_DIR$/ch0307-method-replacement/ch0307-method-replacement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0308-bean-aliases/ch0308-bean-aliases.iml" filepath="$PROJECT_DIR$/ch0308-bean-aliases/ch0308-bean-aliases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0309-bean-instantiation-mode/ch0309-bean-instantiation-mode.iml" filepath="$PROJECT_DIR$/ch0309-bean-instantiation-mode/ch0309-bean-instantiation-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0310-bean-autowiring/ch0310-bean-autowiring.iml" filepath="$PROJECT_DIR$/ch0310-bean-autowiring/ch0310-bean-autowiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0311-bean-inheritance/ch0311-bean-inheritance.iml" filepath="$PROJECT_DIR$/ch0311-bean-inheritance/ch0311-bean-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0312-collections/ch0312-collections.iml" filepath="$PROJECT_DIR$/ch0312-collections/ch0312-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0313-injection/ch0313-injection.iml" filepath="$PROJECT_DIR$/ch0313-injection/ch0313-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0314-nesting/ch0314-nesting.iml" filepath="$PROJECT_DIR$/ch0314-nesting/ch0314-nesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0401-bean-init/ch0401-bean-init.iml" filepath="$PROJECT_DIR$/ch0401-bean-init/ch0401-bean-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0402-initializing-bean/ch0402-initializing-bean.iml" filepath="$PROJECT_DIR$/ch0402-initializing-bean/ch0402-initializing-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0403-post-construct/ch0403-post-construct.iml" filepath="$PROJECT_DIR$/ch0403-post-construct/ch0403-post-construct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0404-initializing-bean-destroy/ch0404-initializing-bean-destroy.iml" filepath="$PROJECT_DIR$/ch0404-initializing-bean-destroy/ch0404-initializing-bean-destroy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0405-disposable-bean/ch0405-disposable-bean.iml" filepath="$PROJECT_DIR$/ch0405-disposable-bean/ch0405-disposable-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0406-post-construct-pre-destroy/ch0406-post-construct-pre-destroy.iml" filepath="$PROJECT_DIR$/ch0406-post-construct-pre-destroy/ch0406-post-construct-pre-destroy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0407-shutdown-hook/ch0407-shutdown-hook.iml" filepath="$PROJECT_DIR$/ch0407-shutdown-hook/ch0407-shutdown-hook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0408-bean-name-aware/ch0408-bean-name-aware.iml" filepath="$PROJECT_DIR$/ch0408-bean-name-aware/ch0408-bean-name-aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0409-application-context-aware/ch0409-application-context-aware.iml" filepath="$PROJECT_DIR$/ch0409-application-context-aware/ch0409-application-context-aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0410-factory-bean/ch0410-factory-bean.iml" filepath="$PROJECT_DIR$/ch0410-factory-bean/ch0410-factory-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0411-accessing-factory-beans/ch0411-accessing-factory-beans.iml" filepath="$PROJECT_DIR$/ch0411-accessing-factory-beans/ch0411-accessing-factory-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0412-factory-bean-and-factory-method-attributes/ch0412-factory-bean-and-factory-method-attributes.iml" filepath="$PROJECT_DIR$/ch0412-factory-bean-and-factory-method-attributes/ch0412-factory-bean-and-factory-method-attributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0413-property-editors/ch0413-property-editors.iml" filepath="$PROJECT_DIR$/ch0413-property-editors/ch0413-property-editors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0414-custom-property-editor/ch0414-custom-property-editor.iml" filepath="$PROJECT_DIR$/ch0414-custom-property-editor/ch0414-custom-property-editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0415-message-source/ch0415-message-source.iml" filepath="$PROJECT_DIR$/ch0415-message-source/ch0415-message-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0416-events/ch0416-events.iml" filepath="$PROJECT_DIR$/ch0416-events/ch0416-events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0417-resource/ch0417-resource.iml" filepath="$PROJECT_DIR$/ch0417-resource/ch0417-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0418-java-config/ch0418-java-config.iml" filepath="$PROJECT_DIR$/ch0418-java-config/ch0418-java-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0419-java-config-message-provider/ch0419-java-config-message-provider.iml" filepath="$PROJECT_DIR$/ch0419-java-config-message-provider/ch0419-java-config-message-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0420-profiles/ch0420-profiles.iml" filepath="$PROJECT_DIR$/ch0420-profiles/ch0420-profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0421-environment/ch0421-environment.iml" filepath="$PROJECT_DIR$/ch0421-environment/ch0421-environment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0422-property-placeholder/ch0422-property-placeholder.iml" filepath="$PROJECT_DIR$/ch0422-property-placeholder/ch0422-property-placeholder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0423-jsr330/ch0423-jsr330.iml" filepath="$PROJECT_DIR$/ch0423-jsr330/ch0423-jsr330.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0424-groovy-config-java/ch0424-groovy-config-java.iml" filepath="$PROJECT_DIR$/ch0424-groovy-config-java/ch0424-groovy-config-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0425-groovy-config/ch0425-groovy-config.iml" filepath="$PROJECT_DIR$/ch0425-groovy-config/ch0425-groovy-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0501-hello-world/ch0501-hello-world.iml" filepath="$PROJECT_DIR$/ch0501-hello-world/ch0501-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0502-simple-before-advice/ch0502-simple-before-advice.iml" filepath="$PROJECT_DIR$/ch0502-simple-before-advice/ch0502-simple-before-advice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0503-security/ch0503-security.iml" filepath="$PROJECT_DIR$/ch0503-security/ch0503-security.iml" />
+    </modules>
+  </component>
+</project>
