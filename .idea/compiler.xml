@@ -67,6 +67,31 @@
         <module name="ch0501-hello-world" />
         <module name="ch0502-simple-before-advice" />
         <module name="ch0503-security" />
+        <module name="ch0504-simple-after-returning-advice" />
+        <module name="ch0505-after-returning-advice-keygen" />
+        <module name="ch0506-simple-around-advice" />
+        <module name="ch0507-simple-throws-advice" />
+        <module name="ch0508-static-pointcut" />
+        <module name="ch0509-dynamic-pointcut" />
+        <module name="ch0510-simple-name-matching" />
+        <module name="ch0511-regex-pointcuts" />
+        <module name="ch0512-aspectj-regex-pointcuts" />
+        <module name="ch0513-annotation-pointcut" />
+        <module name="ch0514-cglib-performance" />
+        <module name="ch0515-cflow-pointcuts" />
+        <module name="ch0516-composable-pointcut" />
+        <module name="ch0517-modification-introduction" />
+        <module name="ch0518-proxyfactorybean" />
+        <module name="ch0519-proxyfactorybean-introduction" />
+        <module name="ch0520-aop-namespace" />
+        <module name="ch0521-aspectj-annotations" />
+      </profile>
+      <profile default="false" name="Annotation profile for ch0522-aspectj-aspects" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="ch0522-aspectj-aspects" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -114,6 +139,25 @@
       <module name="ch0501-hello-world" target="1.8" />
       <module name="ch0502-simple-before-advice" target="1.8" />
       <module name="ch0503-security" target="1.8" />
+      <module name="ch0504-simple-after-returning-advice" target="1.8" />
+      <module name="ch0505-after-returning-advice-keygen" target="1.8" />
+      <module name="ch0506-simple-around-advice" target="1.8" />
+      <module name="ch0507-simple-throws-advice" target="1.8" />
+      <module name="ch0508-static-pointcut" target="1.8" />
+      <module name="ch0509-dynamic-pointcut" target="1.8" />
+      <module name="ch0510-simple-name-matching" target="1.8" />
+      <module name="ch0511-regex-pointcuts" target="1.8" />
+      <module name="ch0512-aspectj-regex-pointcuts" target="1.8" />
+      <module name="ch0513-annotation-pointcut" target="1.8" />
+      <module name="ch0514-cglib-performance" target="1.8" />
+      <module name="ch0515-cflow-pointcuts" target="1.8" />
+      <module name="ch0516-composable-pointcut" target="1.8" />
+      <module name="ch0517-modification-introduction" target="1.8" />
+      <module name="ch0518-proxyfactorybean" target="1.8" />
+      <module name="ch0519-proxyfactorybean-introduction" target="1.8" />
+      <module name="ch0520-aop-namespace" target="1.8" />
+      <module name="ch0521-aspectj-annotations" target="1.8" />
+      <module name="ch0522-aspectj-aspects" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

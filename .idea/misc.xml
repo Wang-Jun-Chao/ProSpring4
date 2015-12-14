@@ -88,6 +88,25 @@
         <option value="$PROJECT_DIR$/ch0501-hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/ch0502-simple-before-advice/pom.xml" />
         <option value="$PROJECT_DIR$/ch0503-security/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0504-simple-after-returning-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0505-after-returning-advice-keygen/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0506-simple-around-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0507-simple-throws-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0508-static-pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0509-dynamic-pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0510-simple-name-matching/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0511-regex-pointcuts/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0512-aspectj-regex-pointcuts/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0513-annotation-pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0514-cglib-performance/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0515-cflow-pointcuts/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0516-composable-pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0517-modification-introduction/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0518-proxyfactorybean/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0519-proxyfactorybean-introduction/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0520-aop-namespace/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0521-aspectj-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0522-aspectj-aspects/pom.xml" />
       </list>
     </option>
   </component>

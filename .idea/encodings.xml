@@ -44,6 +44,25 @@
     <file url="file://$PROJECT_DIR$/ch0501-hello-world" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch0502-simple-before-advice" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch0503-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0504-simple-after-returning-advice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0505-after-returning-advice-keygen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0506-simple-around-advice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0507-simple-throws-advice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0508-static-pointcut" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0509-dynamic-pointcut" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0510-simple-name-matching" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0511-regex-pointcuts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0512-aspectj-regex-pointcuts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0513-annotation-pointcut" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0514-cglib-performance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0515-cflow-pointcuts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0516-composable-pointcut" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0517-modification-introduction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0518-proxyfactorybean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0519-proxyfactorybean-introduction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0520-aop-namespace" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0521-aspectj-annotations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0522-aspectj-aspects" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

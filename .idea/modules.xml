@@ -45,6 +45,25 @@
       <module fileurl="file://$PROJECT_DIR$/ch0501-hello-world/ch0501-hello-world.iml" filepath="$PROJECT_DIR$/ch0501-hello-world/ch0501-hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0502-simple-before-advice/ch0502-simple-before-advice.iml" filepath="$PROJECT_DIR$/ch0502-simple-before-advice/ch0502-simple-before-advice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0503-security/ch0503-security.iml" filepath="$PROJECT_DIR$/ch0503-security/ch0503-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0504-simple-after-returning-advice/ch0504-simple-after-returning-advice.iml" filepath="$PROJECT_DIR$/ch0504-simple-after-returning-advice/ch0504-simple-after-returning-advice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0505-after-returning-advice-keygen/ch0505-after-returning-advice-keygen.iml" filepath="$PROJECT_DIR$/ch0505-after-returning-advice-keygen/ch0505-after-returning-advice-keygen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0506-simple-around-advice/ch0506-simple-around-advice.iml" filepath="$PROJECT_DIR$/ch0506-simple-around-advice/ch0506-simple-around-advice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0507-simple-throws-advice/ch0507-simple-throws-advice.iml" filepath="$PROJECT_DIR$/ch0507-simple-throws-advice/ch0507-simple-throws-advice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0508-static-pointcut/ch0508-static-pointcut.iml" filepath="$PROJECT_DIR$/ch0508-static-pointcut/ch0508-static-pointcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0509-dynamic-pointcut/ch0509-dynamic-pointcut.iml" filepath="$PROJECT_DIR$/ch0509-dynamic-pointcut/ch0509-dynamic-pointcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0510-simple-name-matching/ch0510-simple-name-matching.iml" filepath="$PROJECT_DIR$/ch0510-simple-name-matching/ch0510-simple-name-matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0511-regex-pointcuts/ch0511-regex-pointcuts.iml" filepath="$PROJECT_DIR$/ch0511-regex-pointcuts/ch0511-regex-pointcuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0512-aspectj-regex-pointcuts/ch0512-aspectj-regex-pointcuts.iml" filepath="$PROJECT_DIR$/ch0512-aspectj-regex-pointcuts/ch0512-aspectj-regex-pointcuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0513-annotation-pointcut/ch0513-annotation-pointcut.iml" filepath="$PROJECT_DIR$/ch0513-annotation-pointcut/ch0513-annotation-pointcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0514-cglib-performance/ch0514-cglib-performance.iml" filepath="$PROJECT_DIR$/ch0514-cglib-performance/ch0514-cglib-performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0515-cflow-pointcuts/ch0515-cflow-pointcuts.iml" filepath="$PROJECT_DIR$/ch0515-cflow-pointcuts/ch0515-cflow-pointcuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0516-composable-pointcut/ch0516-composable-pointcut.iml" filepath="$PROJECT_DIR$/ch0516-composable-pointcut/ch0516-composable-pointcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0517-modification-introduction/ch0517-modification-introduction.iml" filepath="$PROJECT_DIR$/ch0517-modification-introduction/ch0517-modification-introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0518-proxyfactorybean/ch0518-proxyfactorybean.iml" filepath="$PROJECT_DIR$/ch0518-proxyfactorybean/ch0518-proxyfactorybean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0519-proxyfactorybean-introduction/ch0519-proxyfactorybean-introduction.iml" filepath="$PROJECT_DIR$/ch0519-proxyfactorybean-introduction/ch0519-proxyfactorybean-introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0520-aop-namespace/ch0520-aop-namespace.iml" filepath="$PROJECT_DIR$/ch0520-aop-namespace/ch0520-aop-namespace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0521-aspectj-annotations/ch0521-aspectj-annotations.iml" filepath="$PROJECT_DIR$/ch0521-aspectj-annotations/ch0521-aspectj-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0522-aspectj-aspects/ch0522-aspectj-aspects.iml" filepath="$PROJECT_DIR$/ch0522-aspectj-aspects/ch0522-aspectj-aspects.iml" />
     </modules>
   </component>
 </project>
