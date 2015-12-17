@@ -85,13 +85,18 @@
         <module name="ch0519-proxyfactorybean-introduction" />
         <module name="ch0520-aop-namespace" />
         <module name="ch0521-aspectj-annotations" />
-      </profile>
-      <profile default="false" name="Annotation profile for ch0522-aspectj-aspects" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
         <module name="ch0522-aspectj-aspects" />
+        <module name="ch0601-plain-jdbc" />
+        <module name="ch0602-spring-jdbc-embedded" />
+        <module name="ch0603-spring-jdbc-namedparam" />
+        <module name="ch0604-spring-jdbc-rowmapper" />
+        <module name="ch0605-spring-jdbc-rowmapper-lambda" />
+        <module name="ch0606-spring-jdbc-resultsetextractor" />
+        <module name="ch0607-spring-jdbc-resultsetextractor-lambda" />
+        <module name="ch0608-spring-jdbc-annotations" />
+        <module name="ch0609-spring-jdbc-annotations-lambda" />
+        <module name="ch0801-spring-data-jpa" />
+        <module name="ch0802-jpa-criteria" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -158,6 +163,18 @@
       <module name="ch0520-aop-namespace" target="1.8" />
       <module name="ch0521-aspectj-annotations" target="1.8" />
       <module name="ch0522-aspectj-aspects" target="1.8" />
+      <module name="ch0601-plain-jdbc" target="1.8" />
+      <module name="ch0602-spring-jdbc-embedded" target="1.8" />
+      <module name="ch0603-spring-jdbc-namedparam" target="1.8" />
+      <module name="ch0604-spring-jdbc-rowmapper" target="1.8" />
+      <module name="ch0605-spring-jdbc-rowmapper-lambda" target="1.8" />
+      <module name="ch0606-spring-jdbc-resultsetextractor" target="1.8" />
+      <module name="ch0607-spring-jdbc-resultsetextractor-lambda" target="1.8" />
+      <module name="ch0608-spring-jdbc-annotations" target="1.8" />
+      <module name="ch0609-spring-jdbc-annotations-lambda" target="1.8" />
+      <module name="ch0701-hibernate-crud" target="1.8" />
+      <module name="ch0801-spring-data-jpa" target="1.8" />
+      <module name="ch0802-jpa-criteria" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

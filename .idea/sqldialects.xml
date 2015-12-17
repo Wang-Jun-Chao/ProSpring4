@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/ch0601-plain-jdbc/src/main/resources/META-INF/sql/schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0601-plain-jdbc/src/main/resources/META-INF/sql/test-data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0602-spring-jdbc-embedded/src/main/resources/META-INF/sql/schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0602-spring-jdbc-embedded/src/main/resources/META-INF/sql/test-data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0603-spring-jdbc-namedparam/src/main/resources/META-INF/sql/schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0603-spring-jdbc-namedparam/src/main/resources/META-INF/sql/test-data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0604-spring-jdbc-rowmapper/src/main/resources/META-INF/sql/schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0604-spring-jdbc-rowmapper/src/main/resources/META-INF/sql/test-data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0608-spring-jdbc-annotations/src/main/resources/META-INF/sql/schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ch0608-spring-jdbc-annotations/src/main/resources/META-INF/sql/stored-function.sql" dialect="MySQL" />
+  </component>
+</project>

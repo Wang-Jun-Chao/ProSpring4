@@ -64,6 +64,18 @@
       <module fileurl="file://$PROJECT_DIR$/ch0520-aop-namespace/ch0520-aop-namespace.iml" filepath="$PROJECT_DIR$/ch0520-aop-namespace/ch0520-aop-namespace.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0521-aspectj-annotations/ch0521-aspectj-annotations.iml" filepath="$PROJECT_DIR$/ch0521-aspectj-annotations/ch0521-aspectj-annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0522-aspectj-aspects/ch0522-aspectj-aspects.iml" filepath="$PROJECT_DIR$/ch0522-aspectj-aspects/ch0522-aspectj-aspects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0601-plain-jdbc/ch0601-plain-jdbc.iml" filepath="$PROJECT_DIR$/ch0601-plain-jdbc/ch0601-plain-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0602-spring-jdbc-embedded/ch0602-spring-jdbc-embedded.iml" filepath="$PROJECT_DIR$/ch0602-spring-jdbc-embedded/ch0602-spring-jdbc-embedded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0603-spring-jdbc-namedparam/ch0603-spring-jdbc-namedparam.iml" filepath="$PROJECT_DIR$/ch0603-spring-jdbc-namedparam/ch0603-spring-jdbc-namedparam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0604-spring-jdbc-rowmapper/ch0604-spring-jdbc-rowmapper.iml" filepath="$PROJECT_DIR$/ch0604-spring-jdbc-rowmapper/ch0604-spring-jdbc-rowmapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0605-spring-jdbc-rowmapper-lambda/ch0605-spring-jdbc-rowmapper-lambda.iml" filepath="$PROJECT_DIR$/ch0605-spring-jdbc-rowmapper-lambda/ch0605-spring-jdbc-rowmapper-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0606-spring-jdbc-resultsetextractor/ch0606-spring-jdbc-resultsetextractor.iml" filepath="$PROJECT_DIR$/ch0606-spring-jdbc-resultsetextractor/ch0606-spring-jdbc-resultsetextractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0607-spring-jdbc-resultsetextractor-lambda/ch0607-spring-jdbc-resultsetextractor-lambda.iml" filepath="$PROJECT_DIR$/ch0607-spring-jdbc-resultsetextractor-lambda/ch0607-spring-jdbc-resultsetextractor-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0608-spring-jdbc-annotations/ch0608-spring-jdbc-annotations.iml" filepath="$PROJECT_DIR$/ch0608-spring-jdbc-annotations/ch0608-spring-jdbc-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda/ch0609-spring-jdbc-annotations-lambda.iml" filepath="$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda/ch0609-spring-jdbc-annotations-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0701-hibernate-crud/ch0701-hibernate-crud.iml" filepath="$PROJECT_DIR$/ch0701-hibernate-crud/ch0701-hibernate-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0801-spring-data-jpa/ch0801-spring-data-jpa.iml" filepath="$PROJECT_DIR$/ch0801-spring-data-jpa/ch0801-spring-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0802-jpa-criteria/ch0802-jpa-criteria.iml" filepath="$PROJECT_DIR$/ch0802-jpa-criteria/ch0802-jpa-criteria.iml" />
     </modules>
   </component>
 </project>

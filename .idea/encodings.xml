@@ -63,6 +63,17 @@
     <file url="file://$PROJECT_DIR$/ch0520-aop-namespace" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch0521-aspectj-annotations" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch0522-aspectj-aspects" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0601-plain-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0602-spring-jdbc-embedded" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0603-spring-jdbc-namedparam" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0604-spring-jdbc-rowmapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0605-spring-jdbc-rowmapper-lambda" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0606-spring-jdbc-resultsetextractor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0607-spring-jdbc-resultsetextractor-lambda" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0608-spring-jdbc-annotations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0701-hibernate-crud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0801-spring-data-jpa" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

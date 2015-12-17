@@ -107,6 +107,17 @@
         <option value="$PROJECT_DIR$/ch0520-aop-namespace/pom.xml" />
         <option value="$PROJECT_DIR$/ch0521-aspectj-annotations/pom.xml" />
         <option value="$PROJECT_DIR$/ch0522-aspectj-aspects/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0601-plain-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0602-spring-jdbc-embedded/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0603-spring-jdbc-namedparam/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0604-spring-jdbc-rowmapper/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0605-spring-jdbc-rowmapper-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0606-spring-jdbc-resultsetextractor/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0607-spring-jdbc-resultsetextractor-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0608-spring-jdbc-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0701-hibernate-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0802-jpa-criteria/pom.xml" />
       </list>
     </option>
   </component>
