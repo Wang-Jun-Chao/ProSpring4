@@ -118,6 +118,7 @@
         <option value="$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda/pom.xml" />
         <option value="$PROJECT_DIR$/ch0701-hibernate-crud/pom.xml" />
         <option value="$PROJECT_DIR$/ch0802-jpa-criteria/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0803-spring-data-jpa-audit/pom.xml" />
       </list>
     </option>
   </component>

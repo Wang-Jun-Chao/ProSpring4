@@ -97,6 +97,7 @@
         <module name="ch0609-spring-jdbc-annotations-lambda" />
         <module name="ch0801-spring-data-jpa" />
         <module name="ch0802-jpa-criteria" />
+        <module name="ch0803-spring-data-jpa-audit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -174,7 +175,8 @@
       <module name="ch0609-spring-jdbc-annotations-lambda" target="1.8" />
       <module name="ch0701-hibernate-crud" target="1.8" />
       <module name="ch0801-spring-data-jpa" target="1.8" />
-      <module name="ch0802-jpa-criteria" target="1.5" />
+      <module name="ch0802-jpa-criteria" target="1.8" />
+      <module name="ch0803-spring-data-jpa-audit" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

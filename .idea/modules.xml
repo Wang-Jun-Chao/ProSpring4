@@ -76,6 +76,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch0701-hibernate-crud/ch0701-hibernate-crud.iml" filepath="$PROJECT_DIR$/ch0701-hibernate-crud/ch0701-hibernate-crud.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0801-spring-data-jpa/ch0801-spring-data-jpa.iml" filepath="$PROJECT_DIR$/ch0801-spring-data-jpa/ch0801-spring-data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0802-jpa-criteria/ch0802-jpa-criteria.iml" filepath="$PROJECT_DIR$/ch0802-jpa-criteria/ch0802-jpa-criteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0803-spring-data-jpa-audit/ch0803-spring-data-jpa-audit.iml" filepath="$PROJECT_DIR$/ch0803-spring-data-jpa-audit/ch0803-spring-data-jpa-audit.iml" />
     </modules>
   </component>
 </project>

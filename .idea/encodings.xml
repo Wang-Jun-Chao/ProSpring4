@@ -74,6 +74,8 @@
     <file url="file://$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch0701-hibernate-crud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch0801-spring-data-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0802-jpa-criteria" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch0803-spring-data-jpa-audit" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
