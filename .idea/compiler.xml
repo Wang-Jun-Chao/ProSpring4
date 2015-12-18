@@ -98,6 +98,8 @@
         <module name="ch0801-spring-data-jpa" />
         <module name="ch0802-jpa-criteria" />
         <module name="ch0803-spring-data-jpa-audit" />
+        <module name="ch0804-hibernate-envers" />
+        <module name="ch0805-jpa-crud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -177,6 +179,8 @@
       <module name="ch0801-spring-data-jpa" target="1.8" />
       <module name="ch0802-jpa-criteria" target="1.8" />
       <module name="ch0803-spring-data-jpa-audit" target="1.8" />
+      <module name="ch0804-hibernate-envers" target="1.8" />
+      <module name="ch0805-jpa-crud" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

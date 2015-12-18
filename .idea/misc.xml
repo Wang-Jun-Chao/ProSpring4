@@ -119,6 +119,8 @@
         <option value="$PROJECT_DIR$/ch0701-hibernate-crud/pom.xml" />
         <option value="$PROJECT_DIR$/ch0802-jpa-criteria/pom.xml" />
         <option value="$PROJECT_DIR$/ch0803-spring-data-jpa-audit/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0804-hibernate-envers/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0805-jpa-crud/pom.xml" />
       </list>
     </option>
   </component>
