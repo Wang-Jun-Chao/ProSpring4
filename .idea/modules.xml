@@ -75,10 +75,15 @@
       <module fileurl="file://$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda/ch0609-spring-jdbc-annotations-lambda.iml" filepath="$PROJECT_DIR$/ch0609-spring-jdbc-annotations-lambda/ch0609-spring-jdbc-annotations-lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0701-hibernate-crud/ch0701-hibernate-crud.iml" filepath="$PROJECT_DIR$/ch0701-hibernate-crud/ch0701-hibernate-crud.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0801-spring-data-jpa/ch0801-spring-data-jpa.iml" filepath="$PROJECT_DIR$/ch0801-spring-data-jpa/ch0801-spring-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0801-transactions-programatic/ch0801-transactions-programatic.iml" filepath="$PROJECT_DIR$/ch0801-transactions-programatic/ch0801-transactions-programatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0802-jpa-criteria/ch0802-jpa-criteria.iml" filepath="$PROJECT_DIR$/ch0802-jpa-criteria/ch0802-jpa-criteria.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0803-spring-data-jpa-audit/ch0803-spring-data-jpa-audit.iml" filepath="$PROJECT_DIR$/ch0803-spring-data-jpa-audit/ch0803-spring-data-jpa-audit.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0804-hibernate-envers/ch0804-hibernate-envers.iml" filepath="$PROJECT_DIR$/ch0804-hibernate-envers/ch0804-hibernate-envers.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch0805-jpa-crud/ch0805-jpa-crud.iml" filepath="$PROJECT_DIR$/ch0805-jpa-crud/ch0805-jpa-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0901-transactions-programatic/ch0901-transactions-programatic.iml" filepath="$PROJECT_DIR$/ch0901-transactions-programatic/ch0901-transactions-programatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0902-transactions-jta/ch0902-transactions-jta.iml" filepath="$PROJECT_DIR$/ch0902-transactions-jta/ch0902-transactions-jta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0903-transactions-xml/ch0903-transactions-xml.iml" filepath="$PROJECT_DIR$/ch0903-transactions-xml/ch0903-transactions-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch0904-transactions-annotation/ch0904-transactions-annotation.iml" filepath="$PROJECT_DIR$/ch0904-transactions-annotation/ch0904-transactions-annotation.iml" />
     </modules>
   </component>
 </project>

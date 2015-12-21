@@ -87,7 +87,6 @@
         <module name="ch0521-aspectj-annotations" />
         <module name="ch0522-aspectj-aspects" />
         <module name="ch0601-plain-jdbc" />
-        <module name="ch0602-spring-jdbc-embedded" />
         <module name="ch0603-spring-jdbc-namedparam" />
         <module name="ch0604-spring-jdbc-rowmapper" />
         <module name="ch0605-spring-jdbc-rowmapper-lambda" />
@@ -96,10 +95,15 @@
         <module name="ch0608-spring-jdbc-annotations" />
         <module name="ch0609-spring-jdbc-annotations-lambda" />
         <module name="ch0801-spring-data-jpa" />
+        <module name="ch0801-transactions-programatic" />
         <module name="ch0802-jpa-criteria" />
         <module name="ch0803-spring-data-jpa-audit" />
         <module name="ch0804-hibernate-envers" />
         <module name="ch0805-jpa-crud" />
+        <module name="ch0901-transactions-programatic" />
+        <module name="ch0902-transactions-jta" />
+        <module name="ch0903-transactions-xml" />
+        <module name="ch0904-transactions-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -177,10 +181,15 @@
       <module name="ch0609-spring-jdbc-annotations-lambda" target="1.8" />
       <module name="ch0701-hibernate-crud" target="1.8" />
       <module name="ch0801-spring-data-jpa" target="1.8" />
+      <module name="ch0801-transactions-programatic" target="1.5" />
       <module name="ch0802-jpa-criteria" target="1.8" />
       <module name="ch0803-spring-data-jpa-audit" target="1.8" />
       <module name="ch0804-hibernate-envers" target="1.8" />
       <module name="ch0805-jpa-crud" target="1.8" />
+      <module name="ch0901-transactions-programatic" target="1.8" />
+      <module name="ch0902-transactions-jta" target="1.8" />
+      <module name="ch0903-transactions-xml" target="1.8" />
+      <module name="ch0904-transactions-annotation" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

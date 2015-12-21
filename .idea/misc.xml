@@ -121,6 +121,10 @@
         <option value="$PROJECT_DIR$/ch0803-spring-data-jpa-audit/pom.xml" />
         <option value="$PROJECT_DIR$/ch0804-hibernate-envers/pom.xml" />
         <option value="$PROJECT_DIR$/ch0805-jpa-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0801-transactions-programatic/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0902-transactions-jta/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0903-transactions-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/ch0904-transactions-annotation/pom.xml" />
       </list>
     </option>
   </component>

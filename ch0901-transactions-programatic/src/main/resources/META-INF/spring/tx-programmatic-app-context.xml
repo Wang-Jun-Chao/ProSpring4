@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+       xmlns:jpa="http://www.springframework.org/schema/data/jpa"
+       xsi:schemaLocation="http://www.springframework.org/schema/jdbc
+        http://www.springframework.org/schema/jdbc/spring-jdbc.xsd
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/data/jpa
+        http://www.springframework.org/schema/data/jpa/spring-jpa.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- 配置数据源 -->
+    <jdbc:embedded-database id="dataSource" type="H2">
+        <jdbc:script location="classpath:META-INF/config/schema.sql"/>
+        <jdbc:script location="classpath:META-INF/config/test-data.sql"/>
+    </jdbc:embedded-database>
+
+    <!-- 配置事务模板 -->
+    <bean id="transactionTemplate"
+          class="org.springframework.transaction.support.TransactionTemplate">
+        <property name="propagationBehaviorName" value="PROPAGATION_NEVER"/>
+        <property name="timeout" value="30"/>
+        <property name="transactionManager" ref="transactionManager"/>
+    </bean>
+
+    <!-- 配置事务管理器 -->
+    <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
+        <property name="entityManagerFactory" ref="emf"/>
+    </bean>
+
+    <!-- 配置事务管理工厂 -->
+    <bean id="emf" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
+        <property name="dataSource" ref="dataSource"/>
+        <!-- 配置jpa适配器厂商 -->
+        <property name="jpaVendorAdapter">
+            <bean class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter"/>
+        </property>
+        <!-- 配置在哪一个包下进行事务扫描 -->
+        <property name="packagesToScan"
+                  value="com.apress.prospring4.ch9"/>
+
+        <!-- 配置JPA属性 -->
+        <property name="jpaProperties">
+            <props>
+                <prop key="hibernate.dialect">
+                    org.hibernate.dialect.H2Dialect
+                </prop>
+                <prop key="hibernate.max_fetch_depth">3</prop>
+                <prop key="hibernate.jdbc.fetch_size">50</prop>
+                <prop key="hibernate.jdbc.batch_size">10</prop>
+                <prop key="hibernate.show_sql">true</prop>
+            </props>
+        </property>
+    </bean>
+
+    <!-- 扫描到有@Component @Controller@Service等这些注解的类，则把这些类注册为bean -->
+    <context:component-scan base-package="com.apress.prospring4.ch9"/>
+
+    <jpa:repositories base-package="com.apress.prospring4.ch9"
+                      entity-manager-factory-ref="emf"
+                      transaction-manager-ref="transactionManager"/>
+</beans>

@@ -6,7 +6,11 @@
 
     <groupId>com.apress.prospring4.ch6</groupId>
     <artifactId>ch0602-spring-jdbc-embedded</artifactId>
+    <packaging>pom</packaging>
     <version>4.0-SNAPSHOT</version>
+    <modules>
+        <module>../ch0901-transactions-programatic</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
